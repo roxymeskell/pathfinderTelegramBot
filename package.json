@@ -1,0 +1,17 @@
+{
+  "name": "pathfinderBot",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD",
+  "dependencies": {
+    "node-telegram-bot-api": "~0.24.0",
+    "html-parser": "~0.10.0",
+    "request": "~2.79.0",
+    "html-to-json": "~0.6.0"
+  }
+}

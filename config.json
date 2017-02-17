@@ -1,0 +1,19 @@
+{
+    "botToken": "163182645:AAHUTU-nZZOMJD5SXQ4A5oeeVebrqkuN6EU",
+    "botOptions": {"polling": "true"},
+    "testURL": "http://www.d20pfsrd.com/classes/core-classes/barbarian",
+    "searchURL": "http://www.d20pfsrd.com/system/app/pages/customSearch?scope=cse-goog_2141708271",
+    "searchLinkClass": "gs-title",
+    "search": {
+	"protocol": "https",
+	"host": "www.googleapis.com",
+	"path": "/customsearch/v1element",
+	"url": "https://www.googleapis.com/customsearch/v1element",
+	"key": "AIzaSyCVAXiUzRYsML1Pv6RwSG1gunmMikTzQqY",
+        "cx": "006680642033474972217:6zo0hx_wle8",
+	"param": {
+            "site": "http://www.d20pfsrd.com",
+            "num": 10
+	}
+    }
+}
